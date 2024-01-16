@@ -125,6 +125,7 @@ Before you begin, ensure you have the following installed:
 
 - **React:** JavaScript library for building user interfaces.
 - **React Router:** Declarative routing for React.js.
+- **Bootstrap 5:** CSS framework for building responsive and mobile-first websites.
 - **Axios:** Promise-based HTTP client for the browser.
 
 ## API Endpoints
