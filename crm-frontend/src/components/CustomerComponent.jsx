@@ -38,7 +38,7 @@ const CustomerComponent = () => {
    *
    */
 
-  // Checking required fields to hold true
+
   function validateForm() {
     let valid = true;
     const errorsCopy = { ...errors };
